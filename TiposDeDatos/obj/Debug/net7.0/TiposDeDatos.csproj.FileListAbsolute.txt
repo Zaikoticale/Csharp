@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/bin/Debug/net7.0/TiposDeDatos
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/bin/Debug/net7.0/TiposDeDatos.deps.json
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/bin/Debug/net7.0/TiposDeDatos.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/bin/Debug/net7.0/TiposDeDatos.dll
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/bin/Debug/net7.0/TiposDeDatos.pdb
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/obj/Debug/net7.0/TiposDeDatos.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/obj/Debug/net7.0/TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/obj/Debug/net7.0/TiposDeDatos.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/obj/Debug/net7.0/TiposDeDatos.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/obj/Debug/net7.0/TiposDeDatos.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/obj/Debug/net7.0/TiposDeDatos.dll
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/obj/Debug/net7.0/refint/TiposDeDatos.dll
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/obj/Debug/net7.0/TiposDeDatos.pdb
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/obj/Debug/net7.0/TiposDeDatos.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/TiposDeDatos/obj/Debug/net7.0/ref/TiposDeDatos.dll

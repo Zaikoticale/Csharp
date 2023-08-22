@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/bin/Debug/net7.0/Static clase de objetos
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/bin/Debug/net7.0/Static clase de objetos.deps.json
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/bin/Debug/net7.0/Static clase de objetos.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/bin/Debug/net7.0/Static clase de objetos.dll
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/bin/Debug/net7.0/Static clase de objetos.pdb
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/obj/Debug/net7.0/Static clase de objetos.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/obj/Debug/net7.0/Static clase de objetos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/obj/Debug/net7.0/Static clase de objetos.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/obj/Debug/net7.0/Static clase de objetos.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/obj/Debug/net7.0/Static clase de objetos.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/obj/Debug/net7.0/Static clase de objetos.dll
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/obj/Debug/net7.0/refint/Static clase de objetos.dll
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/obj/Debug/net7.0/Static clase de objetos.pdb
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/obj/Debug/net7.0/Static clase de objetos.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/Static clasa de objetos/obj/Debug/net7.0/ref/Static clase de objetos.dll
