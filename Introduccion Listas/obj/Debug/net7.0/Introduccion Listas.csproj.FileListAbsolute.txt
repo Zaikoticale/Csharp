@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/bin/Debug/net7.0/Introduccion Listas
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/bin/Debug/net7.0/Introduccion Listas.deps.json
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/bin/Debug/net7.0/Introduccion Listas.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/bin/Debug/net7.0/Introduccion Listas.dll
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/bin/Debug/net7.0/Introduccion Listas.pdb
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/obj/Debug/net7.0/Introduccion Listas.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/obj/Debug/net7.0/Introduccion Listas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/obj/Debug/net7.0/Introduccion Listas.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/obj/Debug/net7.0/Introduccion Listas.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/obj/Debug/net7.0/Introduccion Listas.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/obj/Debug/net7.0/Introduccion Listas.dll
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/obj/Debug/net7.0/refint/Introduccion Listas.dll
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/obj/Debug/net7.0/Introduccion Listas.pdb
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/obj/Debug/net7.0/Introduccion Listas.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/Introduccion Listas/obj/Debug/net7.0/ref/Introduccion Listas.dll
