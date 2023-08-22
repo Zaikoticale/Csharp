@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/bin/Debug/net7.0/Serializacion de objetos JSON
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/bin/Debug/net7.0/Serializacion de objetos JSON.deps.json
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/bin/Debug/net7.0/Serializacion de objetos JSON.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/bin/Debug/net7.0/Serializacion de objetos JSON.dll
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/bin/Debug/net7.0/Serializacion de objetos JSON.pdb
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/obj/Debug/net7.0/Serializacion de objetos JSON.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/obj/Debug/net7.0/Serializacion de objetos JSON.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/obj/Debug/net7.0/Serializacion de objetos JSON.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/obj/Debug/net7.0/Serializacion de objetos JSON.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/obj/Debug/net7.0/Serializacion de objetos JSON.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/obj/Debug/net7.0/Serializacion de objetos JSON.dll
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/obj/Debug/net7.0/refint/Serializacion de objetos JSON.dll
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/obj/Debug/net7.0/Serializacion de objetos JSON.pdb
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/obj/Debug/net7.0/Serializacion de objetos JSON.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/Serializacion de objetos JSON/obj/Debug/net7.0/ref/Serializacion de objetos JSON.dll
