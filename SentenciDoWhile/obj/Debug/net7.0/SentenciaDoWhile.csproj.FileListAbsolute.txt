@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/bin/Debug/net7.0/SentenciaDoWhile
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/bin/Debug/net7.0/SentenciaDoWhile.deps.json
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/bin/Debug/net7.0/SentenciaDoWhile.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/bin/Debug/net7.0/SentenciaDoWhile.dll
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/bin/Debug/net7.0/SentenciaDoWhile.pdb
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/obj/Debug/net7.0/SentenciaDoWhile.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/obj/Debug/net7.0/SentenciaDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/obj/Debug/net7.0/SentenciaDoWhile.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/obj/Debug/net7.0/SentenciaDoWhile.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/obj/Debug/net7.0/SentenciaDoWhile.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/obj/Debug/net7.0/SentenciaDoWhile.dll
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/obj/Debug/net7.0/refint/SentenciaDoWhile.dll
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/obj/Debug/net7.0/SentenciaDoWhile.pdb
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/obj/Debug/net7.0/SentenciaDoWhile.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/SentenciDoWhile/obj/Debug/net7.0/ref/SentenciaDoWhile.dll

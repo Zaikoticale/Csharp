@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/obj/Debug/net7.0/SentenciaSwitch.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/obj/Debug/net7.0/SentenciaSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/obj/Debug/net7.0/SentenciaSwitch.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/obj/Debug/net7.0/SentenciaSwitch.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/obj/Debug/net7.0/SentenciaSwitch.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/bin/Debug/net7.0/SentenciaSwitch
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/bin/Debug/net7.0/SentenciaSwitch.deps.json
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/bin/Debug/net7.0/SentenciaSwitch.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/bin/Debug/net7.0/SentenciaSwitch.dll
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/bin/Debug/net7.0/SentenciaSwitch.pdb
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/obj/Debug/net7.0/SentenciaSwitch.dll
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/obj/Debug/net7.0/refint/SentenciaSwitch.dll
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/obj/Debug/net7.0/SentenciaSwitch.pdb
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/obj/Debug/net7.0/SentenciaSwitch.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/SentenciaSwitch/obj/Debug/net7.0/ref/SentenciaSwitch.dll
