@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/Herencia/bin/Debug/net7.0/Herencia
+/Users/r360sas/Desktop/Cshare/variables/Herencia/bin/Debug/net7.0/Herencia.deps.json
+/Users/r360sas/Desktop/Cshare/variables/Herencia/bin/Debug/net7.0/Herencia.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/Herencia/bin/Debug/net7.0/Herencia.dll
+/Users/r360sas/Desktop/Cshare/variables/Herencia/bin/Debug/net7.0/Herencia.pdb
+/Users/r360sas/Desktop/Cshare/variables/Herencia/obj/Debug/net7.0/Herencia.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/Herencia/obj/Debug/net7.0/Herencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/Herencia/obj/Debug/net7.0/Herencia.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Herencia/obj/Debug/net7.0/Herencia.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/Herencia/obj/Debug/net7.0/Herencia.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Herencia/obj/Debug/net7.0/Herencia.dll
+/Users/r360sas/Desktop/Cshare/variables/Herencia/obj/Debug/net7.0/refint/Herencia.dll
+/Users/r360sas/Desktop/Cshare/variables/Herencia/obj/Debug/net7.0/Herencia.pdb
+/Users/r360sas/Desktop/Cshare/variables/Herencia/obj/Debug/net7.0/Herencia.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/Herencia/obj/Debug/net7.0/ref/Herencia.dll

@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/bin/Debug/net7.0/IfAndElse
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/bin/Debug/net7.0/IfAndElse.deps.json
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/bin/Debug/net7.0/IfAndElse.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/bin/Debug/net7.0/IfAndElse.dll
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/bin/Debug/net7.0/IfAndElse.pdb
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/obj/Debug/net7.0/IfAndElse.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/obj/Debug/net7.0/IfAndElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/obj/Debug/net7.0/IfAndElse.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/obj/Debug/net7.0/IfAndElse.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/obj/Debug/net7.0/IfAndElse.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/obj/Debug/net7.0/IfAndElse.dll
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/obj/Debug/net7.0/refint/IfAndElse.dll
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/obj/Debug/net7.0/IfAndElse.pdb
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/obj/Debug/net7.0/IfAndElse.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/IfAndElse/obj/Debug/net7.0/ref/IfAndElse.dll

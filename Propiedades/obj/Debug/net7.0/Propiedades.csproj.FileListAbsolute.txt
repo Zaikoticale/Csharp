@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/bin/Debug/net7.0/Propiedades
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/bin/Debug/net7.0/Propiedades.deps.json
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/bin/Debug/net7.0/Propiedades.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/bin/Debug/net7.0/Propiedades.dll
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/bin/Debug/net7.0/Propiedades.pdb
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/obj/Debug/net7.0/Propiedades.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/obj/Debug/net7.0/Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/obj/Debug/net7.0/Propiedades.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/obj/Debug/net7.0/Propiedades.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/obj/Debug/net7.0/Propiedades.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/obj/Debug/net7.0/Propiedades.dll
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/obj/Debug/net7.0/refint/Propiedades.dll
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/obj/Debug/net7.0/Propiedades.pdb
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/obj/Debug/net7.0/Propiedades.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/Propiedades/obj/Debug/net7.0/ref/Propiedades.dll
