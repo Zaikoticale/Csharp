@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/bin/Debug/net7.0/Arreglo
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/bin/Debug/net7.0/Arreglo.deps.json
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/bin/Debug/net7.0/Arreglo.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/bin/Debug/net7.0/Arreglo.dll
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/bin/Debug/net7.0/Arreglo.pdb
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/obj/Debug/net7.0/Arreglo.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/obj/Debug/net7.0/Arreglo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/obj/Debug/net7.0/Arreglo.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/obj/Debug/net7.0/Arreglo.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/obj/Debug/net7.0/Arreglo.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/obj/Debug/net7.0/Arreglo.dll
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/obj/Debug/net7.0/refint/Arreglo.dll
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/obj/Debug/net7.0/Arreglo.pdb
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/obj/Debug/net7.0/Arreglo.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/Arreglo/obj/Debug/net7.0/ref/Arreglo.dll
