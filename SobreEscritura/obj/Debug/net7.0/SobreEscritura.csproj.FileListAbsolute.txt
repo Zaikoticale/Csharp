@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/obj/Debug/net7.0/SobreEscritura.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/obj/Debug/net7.0/SobreEscritura.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/obj/Debug/net7.0/SobreEscritura.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/obj/Debug/net7.0/SobreEscritura.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/obj/Debug/net7.0/SobreEscritura.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/bin/Debug/net7.0/SobreEscritura
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/bin/Debug/net7.0/SobreEscritura.deps.json
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/bin/Debug/net7.0/SobreEscritura.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/bin/Debug/net7.0/SobreEscritura.dll
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/bin/Debug/net7.0/SobreEscritura.pdb
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/obj/Debug/net7.0/SobreEscritura.dll
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/obj/Debug/net7.0/refint/SobreEscritura.dll
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/obj/Debug/net7.0/SobreEscritura.pdb
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/obj/Debug/net7.0/SobreEscritura.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/SobreEscritura/obj/Debug/net7.0/ref/SobreEscritura.dll

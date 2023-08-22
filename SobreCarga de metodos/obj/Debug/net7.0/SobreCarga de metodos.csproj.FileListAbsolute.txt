@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/bin/Debug/net7.0/SobreCarga de metodos
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/bin/Debug/net7.0/SobreCarga de metodos.deps.json
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/bin/Debug/net7.0/SobreCarga de metodos.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/bin/Debug/net7.0/SobreCarga de metodos.dll
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/bin/Debug/net7.0/SobreCarga de metodos.pdb
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/obj/Debug/net7.0/SobreCarga de metodos.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/obj/Debug/net7.0/SobreCarga de metodos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/obj/Debug/net7.0/SobreCarga de metodos.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/obj/Debug/net7.0/SobreCarga de metodos.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/obj/Debug/net7.0/SobreCarga de metodos.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/obj/Debug/net7.0/SobreCarga de metodos.dll
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/obj/Debug/net7.0/refint/SobreCarga de metodos.dll
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/obj/Debug/net7.0/SobreCarga de metodos.pdb
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/obj/Debug/net7.0/SobreCarga de metodos.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/SobreCarga de metodos/obj/Debug/net7.0/ref/SobreCarga de metodos.dll
