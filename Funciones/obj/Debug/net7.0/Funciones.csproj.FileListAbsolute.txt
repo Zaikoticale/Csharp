@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/Funciones/bin/Debug/net7.0/Funciones
+/Users/r360sas/Desktop/Cshare/variables/Funciones/bin/Debug/net7.0/Funciones.deps.json
+/Users/r360sas/Desktop/Cshare/variables/Funciones/bin/Debug/net7.0/Funciones.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/Funciones/bin/Debug/net7.0/Funciones.dll
+/Users/r360sas/Desktop/Cshare/variables/Funciones/bin/Debug/net7.0/Funciones.pdb
+/Users/r360sas/Desktop/Cshare/variables/Funciones/obj/Debug/net7.0/Funciones.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/Funciones/obj/Debug/net7.0/Funciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/Funciones/obj/Debug/net7.0/Funciones.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Funciones/obj/Debug/net7.0/Funciones.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/Funciones/obj/Debug/net7.0/Funciones.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Funciones/obj/Debug/net7.0/Funciones.dll
+/Users/r360sas/Desktop/Cshare/variables/Funciones/obj/Debug/net7.0/refint/Funciones.dll
+/Users/r360sas/Desktop/Cshare/variables/Funciones/obj/Debug/net7.0/Funciones.pdb
+/Users/r360sas/Desktop/Cshare/variables/Funciones/obj/Debug/net7.0/Funciones.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/Funciones/obj/Debug/net7.0/ref/Funciones.dll

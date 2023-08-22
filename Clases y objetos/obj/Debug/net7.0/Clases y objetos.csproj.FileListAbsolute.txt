@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/obj/Debug/net7.0/Clases y objetos.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/obj/Debug/net7.0/Clases y objetos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/obj/Debug/net7.0/Clases y objetos.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/obj/Debug/net7.0/Clases y objetos.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/obj/Debug/net7.0/Clases y objetos.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/bin/Debug/net7.0/Clases y objetos
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/bin/Debug/net7.0/Clases y objetos.deps.json
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/bin/Debug/net7.0/Clases y objetos.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/bin/Debug/net7.0/Clases y objetos.dll
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/bin/Debug/net7.0/Clases y objetos.pdb
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/obj/Debug/net7.0/Clases y objetos.dll
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/obj/Debug/net7.0/refint/Clases y objetos.dll
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/obj/Debug/net7.0/Clases y objetos.pdb
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/obj/Debug/net7.0/Clases y objetos.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/Clases y objetos/obj/Debug/net7.0/ref/Clases y objetos.dll

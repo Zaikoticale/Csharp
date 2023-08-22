@@ -1,0 +1,15 @@
+/Users/r360sas/Desktop/Cshare/variables/For/bin/Debug/net7.0/For
+/Users/r360sas/Desktop/Cshare/variables/For/bin/Debug/net7.0/For.deps.json
+/Users/r360sas/Desktop/Cshare/variables/For/bin/Debug/net7.0/For.runtimeconfig.json
+/Users/r360sas/Desktop/Cshare/variables/For/bin/Debug/net7.0/For.dll
+/Users/r360sas/Desktop/Cshare/variables/For/bin/Debug/net7.0/For.pdb
+/Users/r360sas/Desktop/Cshare/variables/For/obj/Debug/net7.0/For.csproj.AssemblyReference.cache
+/Users/r360sas/Desktop/Cshare/variables/For/obj/Debug/net7.0/For.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r360sas/Desktop/Cshare/variables/For/obj/Debug/net7.0/For.AssemblyInfoInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/For/obj/Debug/net7.0/For.AssemblyInfo.cs
+/Users/r360sas/Desktop/Cshare/variables/For/obj/Debug/net7.0/For.csproj.CoreCompileInputs.cache
+/Users/r360sas/Desktop/Cshare/variables/For/obj/Debug/net7.0/For.dll
+/Users/r360sas/Desktop/Cshare/variables/For/obj/Debug/net7.0/refint/For.dll
+/Users/r360sas/Desktop/Cshare/variables/For/obj/Debug/net7.0/For.pdb
+/Users/r360sas/Desktop/Cshare/variables/For/obj/Debug/net7.0/For.genruntimeconfig.cache
+/Users/r360sas/Desktop/Cshare/variables/For/obj/Debug/net7.0/ref/For.dll
